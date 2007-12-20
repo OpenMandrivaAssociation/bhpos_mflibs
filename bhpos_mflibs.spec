@@ -25,6 +25,7 @@ BuildRequires:	pkgconfig
 BuildRequires:	MySQL-devel
 BuildRequires:  perl(XML::Parser)
 BuildRequires:	gettext-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 BananaPOS mflibs libraries, are required by the server (mysql version).
