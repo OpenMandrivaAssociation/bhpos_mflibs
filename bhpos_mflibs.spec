@@ -22,7 +22,7 @@ BuildRequires:	libxml2 >= 2.5.8
 BuildRequires:	libusb-devel >= 0.1.8
 BuildRequires:	libxml++-devel >= 2.6
 BuildRequires:	pkgconfig
-BuildRequires:	MySQL-devel
+BuildRequires:	mysql-devel
 BuildRequires:  perl(XML::Parser)
 BuildRequires:	gettext-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}
