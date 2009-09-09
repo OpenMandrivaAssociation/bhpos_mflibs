@@ -4,7 +4,7 @@
 Summary:	BananaPOS bhpos_mflibs libraries
 Name:		bhpos_mflibs
 Version:	2.0.0
-Release:	%mkrel 0.beta3.4
+Release:	%mkrel 0.beta3.5
 License:	GPL
 Group:		System/Libraries
 URL:		http://www.bananahead.com
