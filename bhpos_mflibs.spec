@@ -7,7 +7,7 @@ Version:	2.0.0
 Release:	%mkrel 0.beta3.5
 License:	GPL
 Group:		System/Libraries
-URL:		http://www.bananahead.com
+URL:		https://www.bananahead.com
 Source0:	ftp://bananahead.com/pub/bhpos2/stable/%{name}-%{version}.tar.bz2
 Patch0:         bhpos_mflibs-2.0.0-fix-build.patch 
 BuildRequires:	bhpos_commonlibs-devel >= 2.0.0
